@@ -1,5 +1,5 @@
 # hw3_bench
-My solution to the task of the third week of the course: https://www.coursera.org/learn/golang-webservices-1goos: linux
+See description in https://github.com/TerionGVS5/hw3_bench/blob/master/hw3.md
 ## My optimisation result
 | function | count | ns/op | B/op | allocs/op |
 | ---: | ---: | ---: | ---: | ---: |
